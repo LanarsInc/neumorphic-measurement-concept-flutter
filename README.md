@@ -15,12 +15,12 @@ Made in [LANARS](https://lanars.com/).
     <tbody>
         <tr>
            <td>Design</td>
-           <td colspan=2 align="center"><img src="/../master/design_neumorphic.jpg" width="300"/></td>
+           <td colspan=2 align="center"><img src="/../master/design_neumorphic.jpg" width="600"/></td>
         </tr>
         <tr>
            <td>Implementation</td>
-           <td><img src="/../master/preview_ios.gif"/></td>
-           <td><img src="/../master/preview_android.gif"/></td>
+           <td colspan=1 align="center"><img src="/../master/preview_ios.gif" width="300"/></td>
+           <td colspan=1 align="center"><img src="/../master/preview_android.gif" width="300"/></td>
         </tr>
     </tbody>
 </table>
